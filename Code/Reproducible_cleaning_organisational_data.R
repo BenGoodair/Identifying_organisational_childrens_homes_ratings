@@ -298,6 +298,10 @@ n_occur <- data.frame(table(ProviderData$Event.number))
 
 yep <- n_occur[n_occur$Freq > 1,]
 
+#Keep only inspections when home was active
+ProviderData <- ProviderData[which(ProviderData$Registration.status=="Active"),]
+
+
 #Remove repeated inspections
 ProviderData <- ProviderData[!duplicated(ProviderData$Event.number), ]
 
@@ -417,6 +421,9 @@ dfwide <- widen_panel(dfmatch)
 #Attach our original messy names to the cleaned data
 df_final <- merge(dforgs, dfwide, by="matchorg", all.x = T)
 
+#order by year to make it prettier
+df_final <- df_final[order(df_final$year),]
+df_final <- df_final[order(df_final$matchorg),]
 
 #save our dataframe
 write.csv(df_final, "Data/private_years_14_22.csv")
@@ -472,6 +479,10 @@ dfwide <- widen_panel(dfmatch)
 
 #Attach our original messy names to the cleaned data
 df_final <- merge(dforgs, dfwide, by="matchorg", all.x = T)
+
+#order by year to make it prettier
+df_final <- df_final[order(df_final$year),]
+df_final <- df_final[order(df_final$matchorg),]
 
 
 #save our dataframe
