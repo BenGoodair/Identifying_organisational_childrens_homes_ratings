@@ -1,375 +1,361 @@
 "","matchorg","year","inadequate_overall","inadequate_leaders","inadequate_safeguarding","requires_improvement_safeguarding","requires_improvement_leaders","requires_improvement_overall","good_overall","good_leaders","good_safeguarding","outstanding_overall","outstanding_leaders","outstanding_safeguarding","total","Organisation.which.owns.the.provider_1","Organisation.which.owns.the.provider_2"
-"1","ACTIONFORCHILDREN","2014",0,0,0,1,1,1,5,5,5,0,0,0,6,"Action for Children","Action For Children"
-"2","ACTIONFORCHILDREN","2016",1,1,1,5,11,5,11,5,11,2,2,2,19,"Action for Children","Action For Children"
-"3","ACTIONFORCHILDREN","2019",0,0,0,4,5,4,10,9,10,0,0,0,14,"Action for Children","Action For Children"
-"4","ACTIONFORCHILDREN","2015",0,1,0,5,8,5,8,3,8,2,3,2,15,"Action for Children","Action For Children"
-"5","ACTIONFORCHILDREN","2017",2,2,2,3,4,4,6,5,7,0,1,0,12,"Action for Children","Action For Children"
-"6","ACTIONFORCHILDREN","2018",0,1,0,6,6,6,8,7,8,0,0,0,14,"Action for Children","Action For Children"
-"7","ACTIONFORCHILDREN","2021",0,0,0,4,5,3,8,7,8,1,0,0,12,"Action for Children","Action For Children"
-"8","ACTIONFORCHILDREN","2022",0,0,0,0,0,0,2,2,2,0,0,0,2,"Action for Children","Action For Children"
-"9","ACTIONFORCHILDREN","2020",0,0,0,1,1,1,3,3,3,0,0,0,4,"Action for Children","Action For Children"
-"10","ANDOVERANDDISTRICTMENCAP","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Andover and District Mencap",NA
-"11","ANDOVERANDDISTRICTMENCAP","2017",2,2,2,0,0,0,0,0,0,0,0,0,2,"Andover and District Mencap",NA
-"12","ANDOVERANDDISTRICTMENCAP","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"Andover and District Mencap",NA
-"13","APPLECAST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Applecast Limited",NA
-"14","AUTISMINITIATIVESUK","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
+"1","ACTIONFORCHILDREN","2014",0,0,0,1,1,1,5,5,5,0,0,0,6,"Action For Children","Action for Children"
+"5","ACTIONFORCHILDREN","2015",0,1,0,5,8,5,7,2,7,2,3,2,14,"Action For Children","Action for Children"
+"4","ACTIONFORCHILDREN","2016",1,1,1,5,11,5,10,4,10,2,2,2,18,"Action For Children","Action for Children"
+"7","ACTIONFORCHILDREN","2017",2,2,2,3,4,4,5,4,6,0,1,0,11,"Action For Children","Action for Children"
+"6","ACTIONFORCHILDREN","2018",0,1,0,6,6,6,8,7,8,0,0,0,14,"Action For Children","Action for Children"
+"2","ACTIONFORCHILDREN","2019",0,0,0,4,5,4,10,9,10,0,0,0,14,"Action For Children","Action for Children"
+"9","ACTIONFORCHILDREN","2020",0,0,0,1,1,1,3,3,3,0,0,0,4,"Action For Children","Action for Children"
+"8","ACTIONFORCHILDREN","2021",0,0,0,4,5,3,8,7,8,1,0,0,12,"Action For Children","Action for Children"
+"3","ACTIONFORCHILDREN","2022",0,0,0,0,0,0,2,2,2,0,0,0,2,"Action For Children","Action for Children"
+"10","APPLECAST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Applecast Limited",NA
+"14","AUTISMINITIATIVESUK","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Autism Initiatives (UK)",NA
+"17","AUTISMINITIATIVESUK","2015",0,0,0,0,1,0,1,0,1,0,0,0,1,"Autism Initiatives (UK)",NA
+"11","AUTISMINITIATIVESUK","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
 "15","AUTISMINITIATIVESUK","2017",0,1,0,1,0,1,0,0,0,0,0,0,1,"Autism Initiatives (UK)",NA
-"16","AUTISMINITIATIVESUK","2021",1,1,1,0,0,0,1,1,1,0,0,0,2,"Autism Initiatives (UK)",NA
-"17","AUTISMINITIATIVESUK","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
-"18","AUTISMINITIATIVESUK","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Autism Initiatives (UK)",NA
-"19","AUTISMINITIATIVESUK","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
-"20","AUTISMINITIATIVESUK","2015",0,0,0,0,1,0,1,0,1,0,0,0,1,"Autism Initiatives (UK)",NA
-"21","AUTISMSUSSEX","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Autism Sussex Ltd",NA
-"22","AUTISMSUSSEX","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Sussex Ltd",NA
-"23","AUTISMSUSSEX","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Autism Sussex Ltd",NA
-"24","BARNARDOS","2014",0,0,0,1,1,1,1,1,1,1,1,1,3,"Barnardo's",NA
-"25","BARNARDOS","2015",0,0,0,2,1,1,3,3,4,2,2,0,6,"Barnardo's",NA
-"26","BARNARDOS","2017",0,0,0,0,3,0,6,3,6,0,0,0,6,"Barnardo's",NA
-"27","BARNARDOS","2016",0,0,0,0,0,0,4,4,4,0,0,0,4,"Barnardo's",NA
-"28","BARNARDOS","2019",0,0,0,0,2,0,5,3,5,0,0,0,5,"Barnardo's",NA
-"29","BARNARDOS","2022",0,0,0,0,2,0,2,0,2,0,0,0,2,"Barnardo's",NA
-"30","BARNARDOS","2018",0,0,0,2,2,2,1,1,1,0,0,0,3,"Barnardo's",NA
-"31","BARNARDOS","2021",0,0,0,0,1,0,3,1,3,0,1,0,3,"Barnardo's",NA
-"32","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2020",0,0,0,1,0,0,1,1,0,0,0,0,1,"Birmingham Children's Trust Community Interest Company",NA
-"33","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2021",0,0,0,2,3,2,2,1,2,0,0,0,4,"Birmingham Children's Trust Community Interest Company",NA
-"34","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2019",0,0,0,2,2,2,1,1,1,0,0,0,3,"Birmingham Children's Trust Community Interest Company",NA
-"35","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2018",0,0,0,2,3,2,2,1,2,0,0,0,4,"Birmingham Children's Trust Community Interest Company",NA
-"36","BIRTENSHAW","2018",0,0,0,0,0,0,2,2,2,1,1,1,3,"Birtenshaw","Birtenshaw "
-"37","BIRTENSHAW","2015",0,0,0,0,0,0,2,2,2,2,2,2,4,"Birtenshaw","Birtenshaw "
-"38","BIRTENSHAW","2021",0,0,0,2,4,2,3,1,3,0,0,0,5,"Birtenshaw","Birtenshaw "
-"39","BIRTENSHAW","2017",0,0,0,0,2,0,5,3,5,1,1,1,6,"Birtenshaw","Birtenshaw "
-"40","BIRTENSHAW","2014",0,0,0,1,2,1,1,0,1,0,0,0,2,"Birtenshaw","Birtenshaw "
-"41","BIRTENSHAW","2016",0,0,0,1,1,1,0,0,2,5,5,3,6,"Birtenshaw","Birtenshaw "
-"42","BIRTENSHAW","2022",0,0,0,0,2,0,2,0,2,0,0,0,2,"Birtenshaw","Birtenshaw "
-"43","BIRTENSHAW","2019",0,0,0,1,3,1,5,3,5,1,1,1,7,"Birtenshaw","Birtenshaw "
-"44","BIRTENSHAW","2020",1,1,1,0,0,0,1,1,1,0,0,0,2,"Birtenshaw","Birtenshaw "
+"12","AUTISMINITIATIVESUK","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
+"16","AUTISMINITIATIVESUK","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Initiatives (UK)",NA
+"13","AUTISMINITIATIVESUK","2021",1,1,1,0,0,0,1,1,1,0,0,0,2,"Autism Initiatives (UK)",NA
+"18","AUTISMSUSSEX","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Autism Sussex Ltd",NA
+"19","AUTISMSUSSEX","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Autism Sussex Ltd",NA
+"20","AUTISMSUSSEX","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Autism Sussex Ltd",NA
+"25","BARNARDOS","2014",0,0,0,1,1,1,1,1,1,1,1,1,3,"Barnardo's",NA
+"22","BARNARDOS","2015",0,0,0,1,0,0,2,2,3,2,2,0,4,"Barnardo's",NA
+"26","BARNARDOS","2016",0,0,0,0,0,0,3,3,3,0,0,0,3,"Barnardo's",NA
+"21","BARNARDOS","2017",0,0,0,0,3,0,5,2,5,0,0,0,5,"Barnardo's",NA
+"28","BARNARDOS","2018",0,0,0,2,2,2,1,1,1,0,0,0,3,"Barnardo's",NA
+"23","BARNARDOS","2019",0,0,0,0,2,0,5,3,5,0,0,0,5,"Barnardo's",NA
+"24","BARNARDOS","2021",0,0,0,0,1,0,3,1,3,0,1,0,3,"Barnardo's",NA
+"27","BARNARDOS","2022",0,0,0,0,2,0,2,0,2,0,0,0,2,"Barnardo's",NA
+"31","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2018",0,0,0,2,3,2,2,1,2,0,0,0,4,"Birmingham Children's Trust Community Interest Company",NA
+"29","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2019",0,0,0,2,2,2,1,1,1,0,0,0,3,"Birmingham Children's Trust Community Interest Company",NA
+"30","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2020",0,0,0,1,0,0,1,1,0,0,0,0,1,"Birmingham Children's Trust Community Interest Company",NA
+"32","BIRMINGHAMCHILDRENSTRUSTCOMMUNITYINTERESTCOMPANY","2021",0,0,0,2,3,2,2,1,2,0,0,0,4,"Birmingham Children's Trust Community Interest Company",NA
+"40","BIRTENSHAW","2014",0,0,0,1,2,1,2,1,2,0,0,0,3,"Birtenshaw ","Birtenshaw"
+"39","BIRTENSHAW","2015",0,0,0,0,1,0,2,1,2,2,2,2,4,"Birtenshaw ","Birtenshaw"
+"37","BIRTENSHAW","2016",0,0,0,1,1,1,1,1,3,4,4,2,6,"Birtenshaw ","Birtenshaw"
+"34","BIRTENSHAW","2017",0,0,0,0,2,0,5,3,6,1,1,0,6,"Birtenshaw ","Birtenshaw"
+"35","BIRTENSHAW","2018",0,0,0,0,0,0,3,3,3,1,1,1,4,"Birtenshaw ","Birtenshaw"
+"41","BIRTENSHAW","2019",0,0,0,1,3,1,5,3,5,0,0,0,6,"Birtenshaw ","Birtenshaw"
+"36","BIRTENSHAW","2020",0,0,0,0,0,0,2,2,2,0,0,0,2,"Birtenshaw ","Birtenshaw"
+"33","BIRTENSHAW","2021",0,0,0,2,4,2,3,1,3,0,0,0,5,"Birtenshaw ","Birtenshaw"
+"38","BIRTENSHAW","2022",0,0,0,0,2,0,2,0,2,0,0,0,2,"Birtenshaw ","Birtenshaw"
+"48","BIRTENSHAWCOMPANYNUMBER","2015",0,0,0,0,0,0,1,1,1,1,1,1,2,"Birtenshaw - company number 02978546",NA
+"47","BIRTENSHAWCOMPANYNUMBER","2016",0,0,0,0,0,0,0,0,0,2,2,2,2,"Birtenshaw - company number 02978546",NA
+"43","BIRTENSHAWCOMPANYNUMBER","2017",0,0,0,1,0,0,1,1,0,1,1,1,2,"Birtenshaw - company number 02978546",NA
+"42","BIRTENSHAWCOMPANYNUMBER","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Birtenshaw - company number 02978546",NA
+"46","BIRTENSHAWCOMPANYNUMBER","2019",0,0,0,0,1,1,0,0,1,1,1,1,2,"Birtenshaw - company number 02978546",NA
+"44","BIRTENSHAWCOMPANYNUMBER","2020",1,1,1,0,0,0,0,0,0,0,0,0,1,"Birtenshaw - company number 02978546",NA
 "45","BIRTENSHAWCOMPANYNUMBER","2021",0,0,0,0,2,0,2,0,2,0,0,0,2,"Birtenshaw - company number 02978546",NA
-"46","BIRTENSHAWCOMPANYNUMBER","2017",0,0,0,1,0,0,1,1,1,1,1,0,2,"Birtenshaw - company number 02978546",NA
-"47","BIRTENSHAWCOMPANYNUMBER","2016",0,0,0,0,0,0,1,1,1,1,1,1,2,"Birtenshaw - company number 02978546",NA
-"48","BIRTENSHAWCOMPANYNUMBER","2015",0,0,0,0,1,0,1,0,1,1,1,1,2,"Birtenshaw - company number 02978546",NA
-"49","BIRTENSHAWCOMPANYNUMBER","2018",0,0,0,1,1,1,1,1,1,0,0,0,2,"Birtenshaw - company number 02978546",NA
-"50","BIRTENSHAWCOMPANYNUMBER","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Birtenshaw - company number 02978546",NA
-"51","BIRTENSHAWCOMPANYNUMBER","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Birtenshaw - company number 02978546",NA
-"52","BIRTENSHAWCOMPANYNUMBER","2019",0,0,0,0,1,1,0,0,1,0,0,0,1,"Birtenshaw - company number 02978546",NA
-"53","BLACKFORDEDUCATIONSCHOOLS","2015",0,0,0,0,0,0,0,0,0,2,2,2,2,"Blackford Education (schools) Ltd",NA
-"54","BLACKFORDEDUCATIONSCHOOLS","2016",0,0,0,0,0,0,1,1,1,1,1,1,2,"Blackford Education (schools) Ltd",NA
-"55","BLACKFORDEDUCATIONSCHOOLS","2014",0,0,0,2,1,1,1,1,0,0,0,0,2,"Blackford Education (schools) Ltd",NA
+"49","BLACKFORDEDUCATIONSCHOOLS","2014",0,0,0,2,1,1,1,1,0,0,0,0,2,"Blackford Education (schools) Ltd",NA
+"50","BLACKFORDEDUCATIONSCHOOLS","2015",0,0,0,0,0,0,0,0,0,2,2,2,2,"Blackford Education (schools) Ltd",NA
+"51","BLACKFORDEDUCATIONSCHOOLS","2016",0,0,0,0,0,0,1,1,1,1,1,1,2,"Blackford Education (schools) Ltd",NA
+"55","BREAK","2014",0,0,0,0,0,0,3,3,3,1,1,1,4,"Break",NA
+"57","BREAK","2015",0,0,0,2,2,1,11,8,8,0,2,2,12,"Break",NA
 "56","BREAK","2016",0,0,0,2,2,1,9,6,8,0,2,0,10,"Break",NA
-"57","BREAK","2021",0,1,0,1,1,1,5,4,5,1,1,1,7,"Break",NA
-"58","BREAK","2019",1,1,1,1,2,1,7,5,7,0,1,0,9,"Break",NA
-"59","BREAK","2014",0,0,0,0,0,0,3,3,3,1,1,1,4,"Break",NA
-"60","BREAK","2018",0,0,0,1,3,1,7,5,8,1,1,0,9,"Break",NA
-"61","BREAK","2020",0,0,0,0,1,0,1,0,1,2,2,2,3,"Break",NA
-"62","BREAK","2017",1,1,1,1,0,0,9,8,8,0,1,0,10,"Break",NA
-"63","BREAK","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Break",NA
-"64","BREAK","2015",0,0,0,2,2,1,11,8,8,0,2,2,12,"Break",NA
-"65","BRIGHTERFUTURESFORCHILDREN","2021",0,0,0,0,0,0,1,1,1,1,1,1,2,"Brighter Futures For Children Limited",NA
-"66","BRIGHTERFUTURESFORCHILDREN","2019",0,0,0,0,0,0,0,0,0,2,2,2,2,"Brighter Futures For Children Limited",NA
-"67","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"68","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"69","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"70","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"71","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"72","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
-"73","CALDECOTTFOUNDATION","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Caldecott Foundation Limited",NA
-"74","CALDECOTTFOUNDATION","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Caldecott Foundation Limited",NA
-"75","CALDECOTTFOUNDATION","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Caldecott Foundation Limited",NA
-"76","CAREMANAGEMENTSOLUTIONS","2017",1,1,1,2,1,1,1,1,0,0,0,0,3,"Care Management Solutions Limited",NA
-"77","CAREMANAGEMENTSOLUTIONS","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Care Management Solutions Limited",NA
-"78","CAREMANAGEMENTSOLUTIONS","2015",0,0,0,1,2,1,1,0,1,0,0,0,2,"Care Management Solutions Limited",NA
-"79","CAREMANAGEMENTSOLUTIONS","2020",0,0,0,0,1,0,1,0,1,0,0,0,1,"Care Management Solutions Limited",NA
-"80","CARLISLEMENCAP","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"81","CARLISLEMENCAP","2018",0,0,0,0,0,0,1,1,1,1,1,1,2,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"82","CARLISLEMENCAP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"83","CARLISLEMENCAP","2019",0,0,0,0,2,0,2,0,2,0,0,0,2,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"84","CARLISLEMENCAP","2017",0,0,0,0,0,0,3,3,3,0,0,0,3,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"85","CARLISLEMENCAP","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
-"86","CARLISLEMENCAP","2016",0,1,0,1,1,1,1,0,1,0,0,0,2,"Carlisle Mencap Ltd","Carlisle Mencap Limited"
+"59","BREAK","2017",1,1,1,1,0,0,9,8,8,0,1,0,10,"Break",NA
+"54","BREAK","2018",0,0,0,1,3,1,7,5,8,1,1,0,9,"Break",NA
+"58","BREAK","2019",1,1,1,1,1,1,6,5,6,0,1,0,8,"Break",NA
+"60","BREAK","2020",0,0,0,0,1,0,1,0,1,2,2,2,3,"Break",NA
+"53","BREAK","2021",0,1,0,1,1,1,5,4,5,1,1,1,7,"Break",NA
+"52","BREAK","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Break",NA
+"61","BRIGHTERFUTURESFORCHILDREN","2019",0,0,0,0,0,0,0,0,0,2,2,2,2,"Brighter Futures For Children Limited","Brighter Futures For Children"
+"62","BRIGHTERFUTURESFORCHILDREN","2021",0,0,0,0,0,0,1,1,1,1,1,1,2,"Brighter Futures For Children Limited","Brighter Futures For Children"
+"68","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"66","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"67","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"63","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"64","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"65","BROMLEYHEALTHCARECOMMUNITYINTERESTCOMPANY","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Bromley Healthcare Community Interest Company",NA
+"71","CALDECOTTFOUNDATION","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Caldecott Foundation Limited",NA
+"70","CALDECOTTFOUNDATION","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Caldecott Foundation Limited",NA
+"69","CALDECOTTFOUNDATION","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Caldecott Foundation Limited",NA
+"73","CAREMANAGEMENTSOLUTIONS","2015",0,0,0,1,2,1,1,0,1,0,0,0,2,"Care Management Solutions Limited",NA
+"72","CAREMANAGEMENTSOLUTIONS","2017",1,1,1,2,1,1,1,1,0,0,0,0,3,"Care Management Solutions Limited",NA
+"74","CAREMANAGEMENTSOLUTIONS","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Care Management Solutions Limited",NA
+"75","CAREMANAGEMENTSOLUTIONS","2020",0,0,0,0,1,0,1,0,1,0,0,0,1,"Care Management Solutions Limited",NA
+"81","CARLISLEMENCAP","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Carlisle Mencap Ltd",NA
+"80","CARLISLEMENCAP","2016",0,1,0,1,1,1,1,0,1,0,0,0,2,"Carlisle Mencap Ltd",NA
+"76","CARLISLEMENCAP","2017",0,0,0,0,0,0,3,3,3,0,0,0,3,"Carlisle Mencap Ltd",NA
+"77","CARLISLEMENCAP","2018",0,0,0,0,0,0,1,1,1,1,1,1,2,"Carlisle Mencap Ltd",NA
+"79","CARLISLEMENCAP","2019",0,0,0,0,2,0,2,0,2,0,0,0,2,"Carlisle Mencap Ltd",NA
+"78","CARLISLEMENCAP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Carlisle Mencap Ltd",NA
+"88","CATHOLICCAREDIOCESEOFLEEDS","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
 "87","CATHOLICCAREDIOCESEOFLEEDS","2015",0,0,0,0,0,0,0,1,1,1,0,0,1,"Catholic Care (Diocese of Leeds)",NA
-"88","CATHOLICCAREDIOCESEOFLEEDS","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
-"89","CATHOLICCAREDIOCESEOFLEEDS","2018",0,0,0,0,0,0,1,0,1,0,1,0,1,"Catholic Care (Diocese of Leeds)",NA
-"90","CATHOLICCAREDIOCESEOFLEEDS","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
-"91","CATHOLICCAREDIOCESEOFLEEDS","2021",0,0,0,0,0,0,0,1,1,1,0,0,1,"Catholic Care (Diocese of Leeds)",NA
-"92","CATHOLICCAREDIOCESEOFLEEDS","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
-"93","CATHOLICCAREDIOCESEOFLEEDS","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"Catholic Care (Diocese of Leeds)",NA
-"94","CHAIGELEYEDUCATIONALFOUNDATION","2018",0,1,0,1,0,1,0,0,0,0,0,0,1,"Chaigeley Educational Foundation",NA
-"95","CHAIGELEYEDUCATIONALFOUNDATION","2017",0,1,0,1,0,1,0,0,0,0,0,0,1,"Chaigeley Educational Foundation",NA
-"96","CHAIGELEYEDUCATIONALFOUNDATION","2019",1,1,1,0,0,0,0,0,0,0,0,0,1,"Chaigeley Educational Foundation",NA
-"97","CHERRYTREES","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"98","CHERRYTREES","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"99","CHERRYTREES","2021",0,0,0,0,0,0,1,0,0,0,1,1,1,"Cherry Trees Limited",NA
-"100","CHERRYTREES","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"101","CHERRYTREES","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"102","CHERRYTREES","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"103","CHERRYTREES","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
-"104","DEVONCORNWALLAUTISTICCOMMUNITYTRUSTTASPECTRUM","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Devon & Cornwall Autistic Community Trust (t/a Spectrum)",NA
-"105","DEVONCORNWALLAUTISTICCOMMUNITYTRUSTTASPECTRUM","2016",0,0,0,1,1,0,1,0,0,0,0,0,1,"Devon & Cornwall Autistic Community Trust (t/a Spectrum)",NA
-"106","DIVERSEABILITIESPLUS","2016",0,1,0,1,0,1,0,0,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"107","DIVERSEABILITIESPLUS","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"108","DIVERSEABILITIESPLUS","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"109","DIVERSEABILITIESPLUS","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"110","DIVERSEABILITIESPLUS","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"111","DIVERSEABILITIESPLUS","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"112","DIVERSEABILITIESPLUS","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
-"113","DONCASTERCHILDRENSSERVICESTRUST","2021",0,0,0,1,1,1,2,1,2,0,1,0,3,"Doncaster Children's Services Trust Limited",NA
-"114","DONCASTERCHILDRENSSERVICESTRUST","2015",1,1,1,0,0,0,3,4,4,1,0,0,5,"Doncaster Children's Services Trust Limited",NA
-"115","DONCASTERCHILDRENSSERVICESTRUST","2018",0,1,0,1,0,1,5,5,5,2,2,2,8,"Doncaster Children's Services Trust Limited",NA
-"116","DONCASTERCHILDRENSSERVICESTRUST","2017",0,0,0,1,1,1,1,1,1,0,0,0,2,"Doncaster Children's Services Trust Limited",NA
-"117","DONCASTERCHILDRENSSERVICESTRUST","2019",0,0,0,2,1,1,2,2,1,1,1,1,4,"Doncaster Children's Services Trust Limited",NA
-"118","DONCASTERCHILDRENSSERVICESTRUST","2016",0,0,0,0,0,0,3,3,4,1,1,0,4,"Doncaster Children's Services Trust Limited",NA
-"119","DONCASTERCHILDRENSSERVICESTRUST","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Doncaster Children's Services Trust Limited",NA
-"120","EXETERROYALACADEMYFORDEAFEDUCATION","2016",1,1,1,0,1,0,1,0,1,0,0,0,2,"Exeter Royal Academy For Deaf Education",NA
-"121","EXETERROYALACADEMYFORDEAFEDUCATION","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Exeter Royal Academy For Deaf Education",NA
-"122","EXETERROYALACADEMYFORDEAFEDUCATION","2017",0,0,0,1,0,0,2,2,1,0,0,0,2,"Exeter Royal Academy For Deaf Education",NA
-"123","EXETERROYALACADEMYFORDEAFEDUCATION","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Exeter Royal Academy For Deaf Education",NA
-"124","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
-"125","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Friends Therapeutic Community Trust",NA
-"126","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2014",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
-"127","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2017",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
-"128","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2015",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
-"129","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2019",0,0,0,0,0,0,2,2,2,0,0,0,2,"Friends Therapeutic Community Trust",NA
-"130","HOLLYBANKTRUST","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"131","HOLLYBANKTRUST","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"132","HOLLYBANKTRUST","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"133","HOLLYBANKTRUST","2018",0,1,0,0,0,1,0,0,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"134","HOLLYBANKTRUST","2014",0,0,0,0,1,0,1,0,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"135","HOLLYBANKTRUST","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
-"136","HOPESPRING","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hopespring",NA
-"137","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2014",0,0,0,0,0,0,3,3,2,0,0,1,3,"Institute of Integrated Systemic Therapy",NA
-"138","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2020",0,0,0,0,0,0,0,0,0,2,2,2,2,"Institute of Integrated Systemic Therapy",NA
-"139","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2017",0,0,1,0,0,0,0,0,0,4,4,3,4,"Institute of Integrated Systemic Therapy",NA
-"140","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2018",0,0,0,0,0,0,0,0,1,2,2,1,2,"Institute of Integrated Systemic Therapy",NA
-"141","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2016",0,0,0,0,0,0,0,1,0,4,3,4,4,"Institute of Integrated Systemic Therapy",NA
-"142","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2015",0,0,0,0,0,0,2,2,2,3,3,3,5,"Institute of Integrated Systemic Therapy",NA
-"143","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2021",0,0,0,1,1,1,1,1,1,1,1,1,3,"Institute of Integrated Systemic Therapy",NA
-"144","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2019",0,0,0,0,0,0,0,0,0,4,4,4,4,"Institute of Integrated Systemic Therapy",NA
-"145","INVESTINGINCHILDRENCOMMUNITYINTERESTCOMPANY","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Investing In Children Cic",NA
-"146","INVESTINGINCHILDRENCOMMUNITYINTERESTCOMPANY","2019",0,1,0,1,0,1,0,0,0,0,0,0,1,"Investing In Children Cic",NA
-"147","JUBILEEHOUSECARETRUST","2019",0,0,0,0,0,0,0,0,0,1,1,1,1,"Jubilee House Care Trust Limited",NA
-"148","JUBILEEHOUSECARETRUST","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Jubilee House Care Trust Limited",NA
-"149","JUBILEEHOUSECARETRUST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
-"150","JUBILEEHOUSECARETRUST","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
-"151","JUBILEEHOUSECARETRUST","2018",0,0,0,0,0,0,0,0,0,1,1,1,1,"Jubilee House Care Trust Limited",NA
-"152","JUBILEEHOUSECARETRUST","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
-"153","KIDS","2014",0,1,0,1,0,1,1,1,1,0,0,0,2,"Kids",NA
-"154","KIDS","2016",0,0,0,0,2,0,2,0,2,0,0,0,2,"Kids",NA
-"155","KIDS","2019",1,1,1,1,0,0,1,1,0,0,0,0,2,"Kids",NA
-"156","KIDS","2017",0,0,0,0,0,0,2,2,2,0,0,0,2,"Kids",NA
-"157","KIDS","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Kids",NA
-"158","KIDS","2015",0,0,0,2,2,1,1,0,0,0,0,0,2,"Kids",NA
-"159","KIDS","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Kids",NA
-"160","LEICESTERYOUNGMENSCHRISTIANASSOCIATIONINCORPORATEDTHE","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Leicester Young Mens Christian Association (incorporated) (the)",NA
-"161","LEICESTERYOUNGMENSCHRISTIANASSOCIATIONINCORPORATEDTHE","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Leicester Young Mens Christian Association (incorporated) (the)",NA
-"162","LIFEWORKSCHARITY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
-"163","LIFEWORKSCHARITY","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"Lifeworks Charity Limited",NA
-"164","LIFEWORKSCHARITY","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Lifeworks Charity Limited",NA
-"165","LIFEWORKSCHARITY","2016",0,0,0,1,1,1,0,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
-"166","LIFEWORKSCHARITY","2018",0,0,0,1,1,0,1,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
-"167","LIFEWORKSCHARITY","2019",0,0,0,1,1,0,1,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
-"168","LIFEWORKSCHARITY","2014",0,0,0,0,1,1,0,0,1,0,0,0,1,"Lifeworks Charity Limited",NA
-"169","MACINTYRECARE","2021",0,0,0,0,0,0,1,2,1,1,0,1,2,"MacIntyre Care",NA
-"170","MACINTYRECARE","2014",2,2,2,0,0,0,0,0,0,0,0,0,2,"MacIntyre Care",NA
-"171","MACINTYRECARE","2016",0,0,0,0,0,0,2,2,2,0,0,0,2,"MacIntyre Care",NA
-"172","MACINTYRECARE","2019",0,0,0,1,1,1,2,2,2,0,0,0,3,"MacIntyre Care",NA
-"173","MACINTYRECARE","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"MacIntyre Care",NA
-"174","MACINTYRECARE","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"MacIntyre Care",NA
-"175","NATIONALAUTISTICSOCIETY","2016",0,0,0,1,1,1,0,0,0,0,0,0,1,"National Autistic Society",NA
-"176","NATIONALAUTISTICSOCIETY","2018",0,0,0,1,0,1,0,1,0,1,1,1,2,"National Autistic Society",NA
-"177","NATIONALAUTISTICSOCIETY","2017",0,0,0,1,1,1,0,1,1,1,0,0,2,"National Autistic Society",NA
-"178","NATIONALAUTISTICSOCIETY","2020",0,0,0,0,0,0,0,0,0,1,1,1,1,"National Autistic Society",NA
-"179","NATIONALAUTISTICSOCIETY","2019",0,1,0,1,0,1,0,0,0,1,1,1,2,"National Autistic Society",NA
-"180","NATIONALAUTISTICSOCIETY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"National Autistic Society",NA
-"181","NEWSTART","2017",0,0,0,1,1,1,2,2,2,0,0,0,3,"New Start",NA
-"182","NEWSTART","2016",0,1,0,1,0,1,3,3,3,0,0,0,4,"New Start",NA
-"183","NEWSTART","2021",2,2,2,2,2,2,0,0,0,0,0,0,4,"New Start",NA
-"184","NEWSTART","2015",0,0,0,0,2,0,2,0,2,0,0,0,2,"New Start",NA
-"185","NEWSTART","2014",1,1,1,2,2,2,0,0,0,0,0,0,3,"New Start",NA
-"186","NEWSTART","2019",0,0,0,0,1,0,3,2,3,0,0,0,3,"New Start",NA
-"187","NEWSTART","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"New Start",NA
-"188","NORTHAMPTONSHIRECHILDRENSTRUST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Northamptonshire Childrens Trust Limited",NA
-"189","NORTHAMPTONSHIRECHILDRENSTRUST","2021",0,1,0,2,1,2,2,2,2,0,0,0,4,"Northamptonshire Childrens Trust Limited",NA
-"190","NORTHEASTAUTISMSOCIETY","2014",1,2,1,1,3,2,3,1,4,0,0,0,6,"North East Autism Society",NA
-"191","NORTHEASTAUTISMSOCIETY","2017",0,0,0,1,1,1,0,2,2,4,2,2,5,"North East Autism Society",NA
-"192","NORTHEASTAUTISMSOCIETY","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"North East Autism Society",NA
-"193","NORTHEASTAUTISMSOCIETY","2018",0,0,0,0,0,0,1,0,1,2,3,2,3,"North East Autism Society",NA
-"194","NORTHEASTAUTISMSOCIETY","2015",0,0,0,1,3,1,3,1,2,0,0,1,4,"North East Autism Society",NA
-"195","NORTHEASTAUTISMSOCIETY","2019",0,0,0,0,0,0,2,2,3,3,3,2,5,"North East Autism Society",NA
-"196","NORTHEASTAUTISMSOCIETY","2020",0,0,0,0,0,0,0,1,1,2,1,1,2,"North East Autism Society",NA
-"197","NORTHEASTAUTISMSOCIETY","2016",0,0,0,0,0,0,3,3,5,3,3,1,6,"North East Autism Society",NA
-"198","NORTHEASTAUTISMSOCIETY","2021",0,0,0,1,2,1,3,2,3,0,0,0,4,"North East Autism Society",NA
-"199","NORWOODRAVENSWOOD","2014",0,0,0,0,1,0,1,0,1,0,0,0,1,"Norwood Ravenswood",NA
-"200","NORWOODRAVENSWOOD","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
-"201","NORWOODRAVENSWOOD","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
-"202","NORWOODRAVENSWOOD","2019",0,0,0,1,0,0,1,1,0,0,0,0,1,"Norwood Ravenswood",NA
-"203","NORWOODRAVENSWOOD","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
-"204","NORWOODRAVENSWOOD","2022",0,0,0,0,1,0,1,0,1,0,0,0,1,"Norwood Ravenswood",NA
-"205","NORWOODRAVENSWOOD","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
-"206","NOTTINGHAMSHIREYMCA","2021",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nottinghamshire Ymca",NA
-"207","NOTTINGHAMSHIREYMCA","2020",0,0,0,1,1,1,0,0,0,0,0,0,1,"Nottinghamshire Ymca",NA
-"208","NOTTINGHAMSHIREYMCA","2017",0,0,0,0,0,0,3,3,3,0,0,0,3,"Nottinghamshire Ymca",NA
-"209","NOTTINGHAMSHIREYMCA","2016",0,0,0,0,0,0,2,1,2,0,1,0,2,"Nottinghamshire Ymca",NA
-"210","NOTTINGHAMSHIREYMCA","2019",1,2,1,1,0,1,2,2,2,0,0,0,4,"Nottinghamshire Ymca",NA
-"211","NOTTINGHAMSHIREYMCA","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nottinghamshire Ymca",NA
-"212","NUGENTCARE","2021",1,1,1,0,0,0,1,1,1,0,0,0,2,"Nugent Care","Nugent Care 2019"
-"213","NUGENTCARE","2017",0,0,0,1,1,1,1,1,1,0,0,0,2,"Nugent Care","Nugent Care 2019"
-"214","NUGENTCARE","2019",1,1,1,0,2,0,2,0,2,0,0,0,3,"Nugent Care","Nugent Care 2019"
-"215","NUGENTCARE","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nugent Care","Nugent Care 2019"
-"216","NUGENTCARE","2022",1,1,1,0,0,0,0,0,0,0,0,0,1,"Nugent Care","Nugent Care 2019"
-"217","NUGENTCARE","2016",0,0,0,0,1,0,2,1,2,0,0,0,2,"Nugent Care","Nugent Care 2019"
-"218","NUGENTCARE","2015",0,0,0,0,1,0,2,1,2,1,1,1,3,"Nugent Care","Nugent Care 2019"
-"219","PARKLANERESIDENTIALHOME","2015",0,1,0,0,0,1,0,0,1,0,0,0,1,"Park Lane Residential Home Limited",NA
-"220","PARKLANERESIDENTIALHOME","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Park Lane Residential Home Limited",NA
-"221","PARKLANERESIDENTIALHOME","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"Park Lane Residential Home Limited",NA
-"222","PARKLANERESIDENTIALHOME","2018",0,1,0,1,0,1,0,0,0,0,0,0,1,"Park Lane Residential Home Limited",NA
-"223","PARKLANERESIDENTIALHOME","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Park Lane Residential Home Limited",NA
-"224","PARKLANERESIDENTIALHOME","2019",2,2,2,0,0,0,0,0,0,0,0,0,2,"Park Lane Residential Home Limited",NA
-"225","PRAXISCARE","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Praxis Care",NA
-"226","PRAXISCARE","2014",0,0,0,1,0,0,1,1,0,0,0,0,1,"Praxis Care",NA
-"227","PRAXISCARE","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
-"228","PRAXISCARE","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
-"229","PRAXISCARE","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
-"230","PRAXISCARE","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Praxis Care",NA
-"231","PRAXISCARE","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
-"232","Q","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Q+",NA
-"233","Q","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Q+",NA
-"234","Q","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Q+",NA
-"235","QUARRIERS","2015",0,0,0,0,2,0,3,1,3,0,0,0,3,"Quarriers",NA
-"236","QUARRIERS","2014",0,0,0,1,0,0,1,1,0,0,0,0,1,"Quarriers",NA
-"237","QUARRIERS","2017",0,1,0,1,0,1,1,1,1,0,0,0,2,"Quarriers",NA
-"238","QUARRIERS","2016",0,0,0,0,1,1,1,1,2,0,0,0,2,"Quarriers",NA
-"239","RAVENSBOURNEPROJECT","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
-"240","RAVENSBOURNEPROJECT","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
-"241","RAVENSBOURNEPROJECT","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
-"242","RAVENSBOURNEPROJECT","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
-"243","RNIBCHARITY","2018",1,1,1,0,0,0,0,0,0,0,0,0,1,"RNIB Charity",NA
-"244","RNIBCHARITY","2017",0,1,0,1,0,1,0,0,0,0,0,0,1,"RNIB Charity",NA
-"245","RNIBCHARITY","2015",0,0,0,0,1,0,1,0,1,0,0,0,1,"RNIB Charity",NA
-"246","ROYALMENCAPSOCIETY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Royal Mencap Society",NA
-"247","ROYALMENCAPSOCIETY","2016",0,0,0,0,1,0,1,0,1,0,0,0,1,"Royal Mencap Society",NA
-"248","ROYALMENCAPSOCIETY","2018",1,1,1,0,0,0,0,0,0,0,0,0,1,"Royal Mencap Society",NA
-"249","ROYALMENCAPSOCIETY","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"Royal Mencap Society",NA
-"250","ROYALMENCAPSOCIETY","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Royal Mencap Society",NA
-"251","SAFEPLACESFORCHILDRENUK","2021",1,1,1,1,1,0,1,0,0,0,0,0,2,"Safe Places For Children Uk",NA
-"252","SEASANCTUARY","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Sea Sanctuary",NA
-"253","SEASANCTUARY","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Sea Sanctuary",NA
-"254","SEASHELLTRUST","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Seashell Trust",NA
-"255","SHYNETOGETHER","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Shyne Together Limited",NA
-"256","SHYNETOGETHER","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
-"257","SHYNETOGETHER","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
-"258","SHYNETOGETHER","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
-"259","SHYNETOGETHER","2016",1,1,1,0,0,0,1,1,1,0,0,0,2,"Shyne Together Limited",NA
-"260","SHYNETOGETHER","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Shyne Together Limited",NA
-"261","SLOUGHCHILDRENFIRST","2021",0,0,0,0,0,0,1,0,1,0,1,0,1,"Slough Children First Limited",NA
-"262","SLOUGHCHILDRENSSERVICESTRUST","2018",0,2,0,1,0,2,0,0,1,0,0,0,2,"Slough Children's Services Trust Limited (09487106)","Slough Children's Services Trust Limited"
-"263","SLOUGHCHILDRENSSERVICESTRUST","2017",0,0,0,0,0,1,1,2,1,0,0,1,2,"Slough Children's Services Trust Limited (09487106)","Slough Children's Services Trust Limited"
-"264","SLOUGHCHILDRENSSERVICESTRUST","2019",1,0,1,0,1,0,1,1,1,0,0,0,2,"Slough Children's Services Trust Limited (09487106)","Slough Children's Services Trust Limited"
-"265","SLOUGHCHILDRENSSERVICESTRUST","2016",0,0,0,0,2,0,2,0,2,0,0,0,2,"Slough Children's Services Trust Limited (09487106)","Slough Children's Services Trust Limited"
-"266","SOUTHWESTCOMPLEXCARESERVICES","2021",0,0,0,0,0,0,0,1,0,1,0,1,1,"South West Complex Care Services",NA
-"267","STCHRISTOPHERSFELLOWSHIP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"St Christopher's Fellowship","St. Christophers Fellowship"
-"268","STCHRISTOPHERSFELLOWSHIP","2016",2,2,2,3,2,1,10,9,8,0,0,0,13,"St Christopher's Fellowship","St. Christophers Fellowship"
-"269","STCHRISTOPHERSFELLOWSHIP","2014",0,0,0,1,2,1,4,3,3,0,0,1,5,"St Christopher's Fellowship","St. Christophers Fellowship"
-"270","STCHRISTOPHERSFELLOWSHIP","2019",0,1,0,2,1,2,4,4,5,1,1,0,7,"St Christopher's Fellowship","St. Christophers Fellowship"
-"271","STCHRISTOPHERSFELLOWSHIP","2021",1,1,1,1,0,0,3,3,2,0,0,0,4,"St Christopher's Fellowship","St. Christophers Fellowship"
-"272","STCHRISTOPHERSFELLOWSHIP","2022",0,0,0,1,1,1,1,1,1,1,1,1,3,"St Christopher's Fellowship","St. Christophers Fellowship"
-"273","STCHRISTOPHERSFELLOWSHIP","2017",0,0,0,2,1,1,6,7,5,1,0,1,8,"St Christopher's Fellowship","St. Christophers Fellowship"
-"274","STCHRISTOPHERSFELLOWSHIP","2018",1,1,1,2,2,2,5,5,5,1,1,1,9,"St Christopher's Fellowship","St. Christophers Fellowship"
-"275","STCHRISTOPHERSFELLOWSHIP","2015",0,0,0,2,2,2,7,7,7,0,0,0,9,"St Christopher's Fellowship","St. Christophers Fellowship"
-"276","STCUTHBERTSCARE","2016",0,0,0,0,0,0,3,3,4,3,3,2,6,"St Cuthbert's Care",NA
-"277","STCUTHBERTSCARE","2018",0,0,0,0,0,0,3,2,5,2,3,0,5,"St Cuthbert's Care",NA
-"278","STCUTHBERTSCARE","2021",0,0,0,0,0,0,2,1,2,0,1,0,2,"St Cuthbert's Care",NA
-"279","STCUTHBERTSCARE","2020",0,0,0,0,0,0,1,0,1,0,1,0,1,"St Cuthbert's Care",NA
-"280","STCUTHBERTSCARE","2017",0,0,0,0,0,0,4,2,4,0,2,0,4,"St Cuthbert's Care",NA
-"281","STCUTHBERTSCARE","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"St Cuthbert's Care",NA
-"282","STCUTHBERTSCARE","2015",0,0,0,2,3,2,4,3,5,2,2,1,8,"St Cuthbert's Care",NA
-"283","STCUTHBERTSCARE","2019",0,1,0,1,1,1,2,1,2,1,1,1,4,"St Cuthbert's Care",NA
-"284","STCUTHBERTSCARE","2014",1,1,1,0,0,0,1,1,1,0,0,0,2,"St Cuthbert's Care",NA
-"285","STELIZABETHSCENTRE","2019",1,1,1,0,0,0,0,0,0,0,0,0,1,"St Elizabeth's Centre",NA
-"286","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2018",0,0,0,1,1,1,1,1,1,0,0,0,2,"Strode Park Foundation for People with Disabilities",NA
-"287","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
-"288","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
-"289","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
-"290","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Strode Park Foundation for People with Disabilities",NA
-"291","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2019",1,1,1,0,0,0,0,0,0,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
-"292","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
-"293","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
-"294","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
-"295","THECALDECOTTFOUNDATION","2015",0,0,0,0,1,0,3,1,3,2,3,2,5,"The Caldecott Foundation Limited",NA
-"296","THECALDECOTTFOUNDATION","2017",0,0,0,0,0,0,1,1,2,4,4,3,5,"The Caldecott Foundation Limited",NA
-"297","THECALDECOTTFOUNDATION","2022",0,0,0,0,0,0,0,0,0,1,1,1,1,"The Caldecott Foundation Limited",NA
-"298","THECALDECOTTFOUNDATION","2021",0,0,0,0,0,0,0,1,0,4,3,4,4,"The Caldecott Foundation Limited",NA
-"299","THECALDECOTTFOUNDATION","2016",0,0,0,0,0,0,2,2,3,1,1,0,3,"The Caldecott Foundation Limited",NA
-"300","THECALDECOTTFOUNDATION","2020",0,0,0,0,0,0,0,1,0,2,1,2,2,"The Caldecott Foundation Limited",NA
-"301","THECALDECOTTFOUNDATION","2019",0,0,0,1,1,1,0,0,1,4,4,3,5,"The Caldecott Foundation Limited",NA
-"302","THECALDECOTTFOUNDATION","2018",0,0,0,0,0,0,2,2,2,5,5,5,7,"The Caldecott Foundation Limited",NA
-"303","THECALDECOTTFOUNDATION","2014",0,0,0,1,1,1,3,3,3,0,0,0,4,"The Caldecott Foundation Limited",NA
-"304","THECHILTERNCENTREFORDISABLEDCHILDREN","2019",0,1,0,1,0,1,0,0,0,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
-"305","THECHILTERNCENTREFORDISABLEDCHILDREN","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
-"306","THECHILTERNCENTREFORDISABLEDCHILDREN","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
-"307","THECHILTERNCENTREFORDISABLEDCHILDREN","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
-"308","THECHILTERNCENTREFORDISABLEDCHILDREN","2016",0,0,0,1,0,1,0,1,0,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
-"309","THEEXETERROYALACADEMYFORDEAFEDUCATION","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Exeter Royal Academy For Deaf Education",NA
-"310","THENORMANLAUDASSOCIATION","2020",0,0,0,0,0,0,1,0,1,0,1,0,1,"The Norman Laud Association",NA
-"311","THENORMANLAUDASSOCIATION","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Norman Laud Association",NA
-"312","THENORMANLAUDASSOCIATION","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Norman Laud Association",NA
-"313","THEPARTNERSHIPOFTHECHARTWELLGROUP","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Partnership of The Chartwell Group ",NA
-"314","THEPARTNERSHIPOFTHECHARTWELLGROUP","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Partnership of The Chartwell Group ",NA
-"315","THEPARTNERSHIPOFTHECHARTWELLGROUP","2020",0,0,0,0,0,0,1,1,0,0,0,1,1,"The Partnership of The Chartwell Group ",NA
-"316","THEPARTNERSHIPOFTHECHARTWELLGROUP","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Partnership of The Chartwell Group ",NA
-"317","THEPARTNERSHIPOFTHECHARTWELLGROUP","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Partnership of The Chartwell Group ",NA
-"318","THEPARTNERSHIPOFTHECHARTWELLGROUP","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Partnership of The Chartwell Group ",NA
-"319","THEPARTNERSHIPOFTHECHARTWELLGROUP","2021",0,0,0,0,0,0,0,1,0,1,0,1,1,"The Partnership of The Chartwell Group ",NA
-"320","THEPERCYHEDLEYFOUNDATION","2019",1,2,1,3,2,2,2,1,1,0,0,0,5,"The Percy Hedley Foundation",NA
-"321","THEPERCYHEDLEYFOUNDATION","2016",0,0,0,0,2,0,2,0,2,0,0,0,2,"The Percy Hedley Foundation",NA
-"322","THEPERCYHEDLEYFOUNDATION","2021",0,1,0,1,0,1,0,0,0,0,0,0,1,"The Percy Hedley Foundation",NA
-"323","THEPERCYHEDLEYFOUNDATION","2018",0,0,0,1,2,1,2,1,2,0,0,0,3,"The Percy Hedley Foundation",NA
-"324","THEPERCYHEDLEYFOUNDATION","2017",0,0,0,2,1,0,2,2,1,2,1,1,4,"The Percy Hedley Foundation",NA
-"325","THEROSEROADASSOCIATION","2019",0,0,0,0,0,0,1,0,1,0,1,0,1,"The Rose Road Association",NA
-"326","THEROSEROADASSOCIATION","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Rose Road Association",NA
-"327","THEROSEROADASSOCIATION","2016",0,0,0,1,1,0,1,0,0,0,0,0,1,"The Rose Road Association",NA
-"328","THEROSEROADASSOCIATION","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Rose Road Association",NA
-"329","THEROSEROADASSOCIATION","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Rose Road Association",NA
-"330","THEROSEROADASSOCIATION","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Rose Road Association",NA
-"331","THESTCHRISTOPHERSCHOOL","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"332","THESTCHRISTOPHERSCHOOL","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"333","THESTCHRISTOPHERSCHOOL","2014",0,0,0,0,0,0,0,1,0,1,0,1,1,"The St Christopher School",NA
-"334","THESTCHRISTOPHERSCHOOL","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"335","THESTCHRISTOPHERSCHOOL","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"336","THESTCHRISTOPHERSCHOOL","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"337","THESTCHRISTOPHERSCHOOL","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
-"338","THETOGETHERTRUST","2016",0,0,0,0,1,0,8,7,8,3,3,3,11,"The Together Trust",NA
-"339","THETOGETHERTRUST","2017",0,0,0,0,0,0,8,5,7,3,6,4,11,"The Together Trust",NA
-"340","THETOGETHERTRUST","2018",0,1,0,2,0,1,8,7,7,2,3,2,11,"The Together Trust",NA
-"341","THETOGETHERTRUST","2015",0,0,0,2,1,1,6,7,7,3,2,1,10,"The Together Trust",NA
-"342","THETOGETHERTRUST","2021",0,0,0,1,1,1,4,4,4,0,0,0,5,"The Together Trust",NA
-"343","THETOGETHERTRUST","2020",0,0,0,0,0,0,2,2,2,0,0,0,2,"The Together Trust",NA
-"344","THETOGETHERTRUST","2014",1,1,1,1,1,1,4,6,4,4,2,4,10,"The Together Trust",NA
-"345","THETOGETHERTRUST","2022",0,0,0,0,1,0,5,3,5,1,2,1,6,"The Together Trust",NA
-"346","THETOGETHERTRUST","2019",0,0,0,0,1,0,9,8,9,2,2,2,11,"The Together Trust",NA
-"347","TOGETHERFORCHILDRENSUNDERLAND","2017",1,1,1,2,2,0,2,0,1,2,2,1,5,"Together for Children Sunderland Limited","Together For Children Sunderland Limited"
-"348","TOGETHERFORCHILDRENSUNDERLAND","2018",0,0,0,3,3,2,2,1,2,2,2,1,6,"Together for Children Sunderland Limited","Together For Children Sunderland Limited"
-"349","TOGETHERFORCHILDRENSUNDERLAND","2021",0,0,0,1,2,1,2,0,3,1,2,0,4,"Together for Children Sunderland Limited","Together For Children Sunderland Limited"
-"350","TOGETHERFORCHILDRENSUNDERLAND","2022",0,0,0,0,0,0,0,1,1,1,0,0,1,"Together for Children Sunderland Limited","Together For Children Sunderland Limited"
-"351","TOGETHERFORCHILDRENSUNDERLAND","2019",0,0,0,0,0,0,3,3,3,1,1,1,4,"Together for Children Sunderland Limited","Together For Children Sunderland Limited"
-"352","WEAREBEAMS","2018",1,1,1,0,0,0,0,0,0,0,0,0,1,"We Are Beams",NA
-"353","WEAREBEAMS","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"We Are Beams",NA
-"354","WEAREBEAMS","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"We Are Beams",NA
-"355","WEAREBEAMS","2016",0,0,0,1,0,0,1,1,0,0,0,0,1,"We Are Beams",NA
-"356","WEAREBEAMS","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"We Are Beams",NA
-"357","WEAREBEAMS","2017",0,0,0,0,0,0,2,2,2,0,0,0,2,"We Are Beams",NA
-"358","WHITELODGECENTRE","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"White Lodge Centre",NA
-"359","WHITELODGECENTRE","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"White Lodge Centre",NA
-"360","WHITELODGECENTRE","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"White Lodge Centre",NA
-"361","WHITELODGECENTRE","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"White Lodge Centre",NA
-"362","WHITELODGECENTRE","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"White Lodge Centre",NA
-"363","WHITELODGECENTRE","2018",0,0,0,0,1,0,1,0,1,0,0,0,1,"White Lodge Centre",NA
-"364","WILLOWSLULL","2020",0,1,0,1,0,1,0,0,0,0,0,0,1,"Willows Lull",NA
-"365","WORCESTERSHIRECHILDRENFIRST","2021",2,2,2,0,0,0,2,2,2,0,0,0,4,"Worcestershire Children First",NA
-"366","WORCESTERSHIRECHILDRENFIRST","2022",0,0,0,1,1,1,0,0,0,0,0,0,1,"Worcestershire Children First",NA
-"367","YMCAROBINHOODGROUP","2017",0,0,0,0,0,0,0,0,0,1,1,1,1,"YMCA ROBIN HOOD GROUP",NA
-"368","YMCAROBINHOODGROUP","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
-"369","YMCAROBINHOODGROUP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
-"370","YMCAROBINHOODGROUP","2022",0,0,0,1,1,1,1,1,1,0,0,0,2,"YMCA ROBIN HOOD GROUP",NA
-"371","YMCAROBINHOODGROUP","2018",0,0,0,0,0,0,0,1,1,1,0,0,1,"YMCA ROBIN HOOD GROUP",NA
-"372","YMCAROBINHOODGROUP","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
-"373","YMCAROBINHOODGROUP","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"YMCA ROBIN HOOD GROUP",NA
-"374","YMCAROBINHOODGROUP","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"82","CATHOLICCAREDIOCESEOFLEEDS","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"Catholic Care (Diocese of Leeds)",NA
+"84","CATHOLICCAREDIOCESEOFLEEDS","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
+"85","CATHOLICCAREDIOCESEOFLEEDS","2018",0,0,0,0,0,0,1,0,1,0,1,0,1,"Catholic Care (Diocese of Leeds)",NA
+"86","CATHOLICCAREDIOCESEOFLEEDS","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Catholic Care (Diocese of Leeds)",NA
+"83","CATHOLICCAREDIOCESEOFLEEDS","2021",0,0,0,0,0,0,0,1,1,1,0,0,1,"Catholic Care (Diocese of Leeds)",NA
+"89","CHAIGELEYEDUCATIONALFOUNDATION","2017",0,1,0,1,0,1,0,0,0,0,0,0,1,"Chaigeley Educational Foundation",NA
+"90","CHAIGELEYEDUCATIONALFOUNDATION","2018",0,1,0,1,0,1,0,0,0,0,0,0,1,"Chaigeley Educational Foundation",NA
+"93","CHERRYTREES","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"97","CHERRYTREES","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"92","CHERRYTREES","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"94","CHERRYTREES","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"95","CHERRYTREES","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"96","CHERRYTREES","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Cherry Trees Limited",NA
+"91","CHERRYTREES","2021",0,0,0,0,0,0,1,0,0,0,1,1,1,"Cherry Trees Limited",NA
+"99","DEVONCORNWALLAUTISTICCOMMUNITYTRUSTTASPECTRUM","2016",0,0,0,1,1,0,1,0,0,0,0,0,1,"Devon & Cornwall Autistic Community Trust (t/a Spectrum)",NA
+"98","DEVONCORNWALLAUTISTICCOMMUNITYTRUSTTASPECTRUM","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Devon & Cornwall Autistic Community Trust (t/a Spectrum)",NA
+"104","DIVERSEABILITIESPLUS","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"106","DIVERSEABILITIESPLUS","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"100","DIVERSEABILITIESPLUS","2016",0,1,0,1,0,1,0,0,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"101","DIVERSEABILITIESPLUS","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"105","DIVERSEABILITIESPLUS","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"103","DIVERSEABILITIESPLUS","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"102","DIVERSEABILITIESPLUS","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"Diverse Abilities Plus Ltd.",NA
+"112","DONCASTERCHILDRENSSERVICESTRUST","2015",1,1,1,0,0,0,3,4,4,1,0,0,5,"Doncaster Children's Services Trust Limited",NA
+"111","DONCASTERCHILDRENSSERVICESTRUST","2016",0,0,0,0,0,0,3,3,4,1,1,0,4,"Doncaster Children's Services Trust Limited",NA
+"108","DONCASTERCHILDRENSSERVICESTRUST","2017",0,0,0,1,1,1,1,1,1,0,0,0,2,"Doncaster Children's Services Trust Limited",NA
+"113","DONCASTERCHILDRENSSERVICESTRUST","2018",0,1,0,1,0,1,5,5,5,2,2,2,8,"Doncaster Children's Services Trust Limited",NA
+"110","DONCASTERCHILDRENSSERVICESTRUST","2019",0,0,0,2,1,1,2,2,1,1,1,1,4,"Doncaster Children's Services Trust Limited",NA
+"107","DONCASTERCHILDRENSSERVICESTRUST","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Doncaster Children's Services Trust Limited",NA
+"109","DONCASTERCHILDRENSSERVICESTRUST","2021",0,0,0,1,1,1,2,1,2,0,1,0,3,"Doncaster Children's Services Trust Limited",NA
+"114","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2014",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
+"118","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2015",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
+"116","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
+"115","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2017",0,0,0,0,0,0,0,0,0,1,1,1,1,"Friends Therapeutic Community Trust",NA
+"117","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2019",0,0,0,0,0,0,2,2,2,0,0,0,2,"Friends Therapeutic Community Trust",NA
+"119","FRIENDSTHERAPEUTICCOMMUNITYTRUST","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Friends Therapeutic Community Trust",NA
+"122","HOLLYBANKTRUST","2014",0,0,0,0,1,0,1,0,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"123","HOLLYBANKTRUST","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"125","HOLLYBANKTRUST","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"121","HOLLYBANKTRUST","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"120","HOLLYBANKTRUST","2018",0,1,0,0,0,1,0,0,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"124","HOLLYBANKTRUST","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hollybank Trust 1043129",NA
+"126","HOPESPRING","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Hopespring",NA
+"131","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2014",0,0,0,0,0,0,3,3,2,0,0,1,3,"Institute of Integrated Systemic Therapy",NA
+"127","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2015",0,0,0,0,0,0,2,2,2,3,3,3,5,"Institute of Integrated Systemic Therapy",NA
+"134","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2016",0,0,0,0,0,0,0,1,0,4,3,4,4,"Institute of Integrated Systemic Therapy",NA
+"128","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2017",0,0,1,0,0,0,0,0,0,4,4,3,4,"Institute of Integrated Systemic Therapy",NA
+"130","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2018",0,0,0,0,0,0,0,0,1,2,2,1,2,"Institute of Integrated Systemic Therapy",NA
+"132","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2019",0,0,0,0,0,0,0,0,0,4,4,4,4,"Institute of Integrated Systemic Therapy",NA
+"133","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2020",0,0,0,0,0,0,0,0,0,2,2,2,2,"Institute of Integrated Systemic Therapy",NA
+"129","INSTITUTEOFINTEGRATEDSYSTEMICTHERAPY","2021",0,0,0,1,1,1,1,1,1,1,1,1,3,"Institute of Integrated Systemic Therapy",NA
+"136","INVESTINGINCHILDRENCOMMUNITYINTERESTCOMPANY","2019",0,1,0,1,0,1,0,0,0,0,0,0,1,"Investing In Children Cic",NA
+"135","INVESTINGINCHILDRENCOMMUNITYINTERESTCOMPANY","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Investing In Children Cic",NA
+"140","JUBILEEHOUSECARETRUST","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Jubilee House Care Trust Limited",NA
+"138","JUBILEEHOUSECARETRUST","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
+"137","JUBILEEHOUSECARETRUST","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
+"142","JUBILEEHOUSECARETRUST","2018",0,0,0,0,0,0,0,0,0,1,1,1,1,"Jubilee House Care Trust Limited",NA
+"139","JUBILEEHOUSECARETRUST","2019",0,0,0,0,0,0,0,0,0,1,1,1,1,"Jubilee House Care Trust Limited",NA
+"141","JUBILEEHOUSECARETRUST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Jubilee House Care Trust Limited",NA
+"147","KIDS","2014",0,1,0,1,0,1,0,0,0,0,0,0,1,"Kids",NA
+"146","KIDS","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Kids",NA
+"148","KIDS","2016",0,0,0,0,1,0,1,0,1,0,0,0,1,"Kids",NA
+"144","KIDS","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Kids",NA
+"145","KIDS","2018",0,0,0,1,0,0,1,1,0,0,0,0,1,"Kids",NA
+"149","KIDS","2019",1,1,1,1,0,0,1,1,0,0,0,0,2,"Kids",NA
+"143","KIDS","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Kids",NA
+"151","LEICESTERYOUNGMENSCHRISTIANASSOCIATIONINCORPORATEDTHE","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Leicester Young Mens Christian Association (incorporated) (the)",NA
+"150","LEICESTERYOUNGMENSCHRISTIANASSOCIATIONINCORPORATEDTHE","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"Leicester Young Mens Christian Association (incorporated) (the)",NA
+"154","LIFEWORKSCHARITY","2014",0,0,0,0,1,1,0,0,1,0,0,0,1,"Lifeworks Charity Limited",NA
+"158","LIFEWORKSCHARITY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
+"157","LIFEWORKSCHARITY","2016",0,0,0,1,1,1,0,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
+"152","LIFEWORKSCHARITY","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Lifeworks Charity Limited",NA
+"156","LIFEWORKSCHARITY","2018",0,0,0,1,1,0,1,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
+"155","LIFEWORKSCHARITY","2019",0,0,0,1,1,0,1,0,0,0,0,0,1,"Lifeworks Charity Limited",NA
+"153","LIFEWORKSCHARITY","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"Lifeworks Charity Limited",NA
+"159","MACINTYRE","2014",2,2,2,0,0,0,0,0,0,0,0,0,2,"MacIntyre",NA
+"164","MACINTYRE","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"MacIntyre",NA
+"160","MACINTYRE","2016",0,0,0,0,0,0,2,2,2,0,0,0,2,"MacIntyre",NA
+"161","MACINTYRE","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"MacIntyre",NA
+"162","MACINTYRE","2019",0,0,0,1,1,1,1,1,1,0,0,0,2,"MacIntyre",NA
+"163","MACINTYRE","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"MacIntyre",NA
+"165","MACINTYRECARE","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"MacIntyre Care",NA
+"166","MACINTYRECARE","2021",0,0,0,0,0,0,0,1,0,1,0,1,1,"MacIntyre Care",NA
+"167","NATIONALAUTISTICSOCIETY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"National Autistic Society",NA
+"171","NATIONALAUTISTICSOCIETY","2016",0,0,0,1,1,1,0,0,0,0,0,0,1,"National Autistic Society",NA
+"170","NATIONALAUTISTICSOCIETY","2017",0,0,0,1,1,1,0,1,1,1,0,0,2,"National Autistic Society",NA
+"172","NATIONALAUTISTICSOCIETY","2018",0,0,0,1,0,1,0,1,0,1,1,1,2,"National Autistic Society",NA
+"169","NATIONALAUTISTICSOCIETY","2019",0,0,0,0,0,0,0,0,0,1,1,1,1,"National Autistic Society",NA
+"168","NATIONALAUTISTICSOCIETY","2020",0,0,0,0,0,0,0,0,0,1,1,1,1,"National Autistic Society",NA
+"176","NEWSTART","2014",1,1,1,2,2,2,0,0,0,0,0,0,3,"New Start",NA
+"177","NEWSTART","2015",0,0,0,0,2,0,2,0,2,0,0,0,2,"New Start",NA
+"178","NEWSTART","2016",0,1,0,1,0,1,3,3,3,0,0,0,4,"New Start",NA
+"179","NEWSTART","2017",0,0,0,1,1,1,2,2,2,0,0,0,3,"New Start",NA
+"174","NEWSTART","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"New Start",NA
+"173","NEWSTART","2019",0,0,0,0,1,0,3,2,3,0,0,0,3,"New Start",NA
+"175","NEWSTART","2021",2,2,2,2,2,2,0,0,0,0,0,0,4,"New Start",NA
+"181","NORTHAMPTONSHIRECHILDRENSTRUST","2021",0,1,0,2,1,2,2,2,2,0,0,0,4,"Northamptonshire Childrens Trust Limited",NA
+"180","NORTHAMPTONSHIRECHILDRENSTRUST","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"Northamptonshire Childrens Trust Limited",NA
+"184","NORTHEASTAUTISMSOCIETY","2014",1,2,1,1,3,2,3,1,4,0,0,0,6,"North East Autism Society",NA
+"183","NORTHEASTAUTISMSOCIETY","2015",0,0,0,1,3,1,3,1,2,0,0,1,4,"North East Autism Society",NA
+"188","NORTHEASTAUTISMSOCIETY","2016",0,0,0,0,0,0,3,3,5,3,3,1,6,"North East Autism Society",NA
+"190","NORTHEASTAUTISMSOCIETY","2017",0,0,0,1,1,1,0,2,2,4,2,2,5,"North East Autism Society",NA
+"186","NORTHEASTAUTISMSOCIETY","2018",0,0,0,0,0,0,1,0,1,2,3,2,3,"North East Autism Society",NA
+"182","NORTHEASTAUTISMSOCIETY","2019",0,0,0,0,0,0,2,2,3,3,3,2,5,"North East Autism Society",NA
+"185","NORTHEASTAUTISMSOCIETY","2020",0,0,0,0,0,0,0,1,1,2,1,1,2,"North East Autism Society",NA
+"187","NORTHEASTAUTISMSOCIETY","2021",0,0,0,1,2,1,3,2,3,0,0,0,4,"North East Autism Society",NA
+"189","NORTHEASTAUTISMSOCIETY","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"North East Autism Society",NA
+"197","NORWOODRAVENSWOOD","2014",0,0,0,0,1,0,1,0,1,0,0,0,1,"Norwood Ravenswood",NA
+"194","NORWOODRAVENSWOOD","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
+"193","NORWOODRAVENSWOOD","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
+"195","NORWOODRAVENSWOOD","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
+"196","NORWOODRAVENSWOOD","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Norwood Ravenswood",NA
+"192","NORWOODRAVENSWOOD","2019",0,0,0,1,0,0,1,1,0,0,0,0,1,"Norwood Ravenswood",NA
+"191","NORWOODRAVENSWOOD","2022",0,0,0,0,1,0,1,0,1,0,0,0,1,"Norwood Ravenswood",NA
+"200","NOTTINGHAMSHIREYMCA","2016",0,0,0,0,0,0,2,1,2,0,1,0,2,"Nottinghamshire Ymca",NA
+"203","NOTTINGHAMSHIREYMCA","2017",0,0,0,0,0,0,3,3,3,0,0,0,3,"Nottinghamshire Ymca",NA
+"201","NOTTINGHAMSHIREYMCA","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nottinghamshire Ymca",NA
+"202","NOTTINGHAMSHIREYMCA","2019",1,2,1,1,0,1,2,2,2,0,0,0,4,"Nottinghamshire Ymca",NA
+"198","NOTTINGHAMSHIREYMCA","2020",0,0,0,1,1,1,0,0,0,0,0,0,1,"Nottinghamshire Ymca",NA
+"199","NOTTINGHAMSHIREYMCA","2021",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nottinghamshire Ymca",NA
+"205","NUGENTCARE","2015",0,0,0,0,1,0,2,1,2,1,1,1,3,"Nugent Care",NA
+"204","NUGENTCARE","2016",0,0,0,0,1,0,2,1,2,0,0,0,2,"Nugent Care",NA
+"206","NUGENTCARE","2017",0,0,0,1,1,1,1,1,1,0,0,0,2,"Nugent Care",NA
+"209","NUGENTCARE","2018",0,0,0,0,0,0,2,2,2,0,0,0,2,"Nugent Care",NA
+"208","NUGENTCARE","2019",1,1,1,0,2,0,2,0,2,0,0,0,3,"Nugent Care",NA
+"207","NUGENTCARE","2021",1,1,1,0,0,0,1,1,1,0,0,0,2,"Nugent Care",NA
+"210","NUGENTCARE","2022",1,1,1,0,0,0,0,0,0,0,0,0,1,"Nugent Care",NA
+"213","PARKLANERESIDENTIALHOME","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"Park Lane Residential Home Limited",NA
+"215","PARKLANERESIDENTIALHOME","2015",0,1,0,0,0,1,0,0,1,0,0,0,1,"Park Lane Residential Home Limited",NA
+"211","PARKLANERESIDENTIALHOME","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Park Lane Residential Home Limited",NA
+"214","PARKLANERESIDENTIALHOME","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"Park Lane Residential Home Limited",NA
+"212","PARKLANERESIDENTIALHOME","2018",0,1,0,1,0,1,0,0,0,0,0,0,1,"Park Lane Residential Home Limited",NA
+"216","PRAXISCARE","2014",0,0,0,1,0,0,1,1,0,0,0,0,1,"Praxis Care",NA
+"221","PRAXISCARE","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
+"219","PRAXISCARE","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
+"220","PRAXISCARE","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
+"222","PRAXISCARE","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Praxis Care",NA
+"217","PRAXISCARE","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Praxis Care",NA
+"218","PRAXISCARE","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Praxis Care",NA
+"225","QPLUS","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Q Plus",NA
+"224","QPLUS","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"Q Plus",NA
+"223","QPLUS","2021",0,0,0,0,1,0,1,0,1,0,0,0,1,"Q Plus",NA
+"227","RAVENSBOURNEPROJECT","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
+"229","RAVENSBOURNEPROJECT","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
+"228","RAVENSBOURNEPROJECT","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
+"226","RAVENSBOURNEPROJECT","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Ravensbourne Project",NA
+"230","RNIBCHARITY","2015",0,0,0,0,1,0,1,0,1,0,0,0,1,"RNIB Charity",NA
+"231","RNIBCHARITY","2017",0,1,0,1,0,1,0,0,0,0,0,0,1,"RNIB Charity",NA
+"232","ROYALMENCAPSOCIETY","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"Royal Mencap Society",NA
+"234","ROYALMENCAPSOCIETY","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"Royal Mencap Society",NA
+"233","ROYALMENCAPSOCIETY","2016",0,0,0,0,1,0,1,0,1,0,0,0,1,"Royal Mencap Society",NA
+"235","ROYALMENCAPSOCIETY","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"Royal Mencap Society",NA
+"236","SAFEPLACESFORCHILDRENUK","2021",1,1,1,1,1,0,1,0,0,0,0,0,2,"Safe Places For Children Uk",NA
+"237","SEASANCTUARY","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Sea Sanctuary",NA
+"238","SEASHELLTRUST","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Seashell Trust",NA
+"239","SHYNETOGETHER","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Shyne Together Limited",NA
+"240","SHYNETOGETHER","2016",1,1,1,0,0,0,1,1,1,0,0,0,2,"Shyne Together Limited",NA
+"241","SHYNETOGETHER","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
+"242","SHYNETOGETHER","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
+"243","SHYNETOGETHER","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"Shyne Together Limited",NA
+"244","SHYNETOGETHER","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Shyne Together Limited",NA
+"245","SLOUGHCHILDRENFIRST","2021",0,0,0,0,0,0,1,0,1,0,1,0,1,"Slough Children First Limited",NA
+"249","SLOUGHCHILDRENSSERVICESTRUST","2016",0,0,0,0,2,0,2,0,2,0,0,0,2,"Slough Children's Services Trust Limited (09487106)",NA
+"246","SLOUGHCHILDRENSSERVICESTRUST","2017",0,0,0,0,0,1,1,2,1,0,0,1,2,"Slough Children's Services Trust Limited (09487106)",NA
+"247","SLOUGHCHILDRENSSERVICESTRUST","2018",0,2,0,1,0,2,0,0,1,0,0,0,2,"Slough Children's Services Trust Limited (09487106)",NA
+"248","SLOUGHCHILDRENSSERVICESTRUST","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Slough Children's Services Trust Limited (09487106)",NA
+"250","SOUTHWESTCOMPLEXCARESERVICES","2021",0,0,0,0,0,0,0,1,0,1,0,1,1,"South West Complex Care Services",NA
+"252","STCHRISTOPHERSFELLOWSHIP","2014",0,0,0,1,2,1,4,3,3,0,0,1,5,"St Christopher's Fellowship","St. Christophers Fellowship"
+"254","STCHRISTOPHERSFELLOWSHIP","2015",0,0,0,2,2,2,7,7,7,0,0,0,9,"St Christopher's Fellowship","St. Christophers Fellowship"
+"251","STCHRISTOPHERSFELLOWSHIP","2016",2,2,2,3,2,1,10,9,8,0,0,0,13,"St Christopher's Fellowship","St. Christophers Fellowship"
+"259","STCHRISTOPHERSFELLOWSHIP","2017",0,0,0,2,1,1,6,7,5,1,0,1,8,"St Christopher's Fellowship","St. Christophers Fellowship"
+"257","STCHRISTOPHERSFELLOWSHIP","2018",0,0,0,1,1,1,5,5,5,1,1,1,7,"St Christopher's Fellowship","St. Christophers Fellowship"
+"255","STCHRISTOPHERSFELLOWSHIP","2019",0,0,0,1,1,1,4,4,5,1,1,0,6,"St Christopher's Fellowship","St. Christophers Fellowship"
+"256","STCHRISTOPHERSFELLOWSHIP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"St Christopher's Fellowship","St. Christophers Fellowship"
+"258","STCHRISTOPHERSFELLOWSHIP","2021",0,0,0,1,0,0,3,3,2,0,0,0,3,"St Christopher's Fellowship","St. Christophers Fellowship"
+"253","STCHRISTOPHERSFELLOWSHIP","2022",0,0,0,1,1,1,1,1,1,1,1,1,3,"St Christopher's Fellowship","St. Christophers Fellowship"
+"268","STCUTHBERTSCARE","2014",1,1,1,0,0,0,1,1,1,0,0,0,2,"St Cuthbert's Care",NA
+"260","STCUTHBERTSCARE","2015",0,0,0,2,3,2,4,3,5,2,2,1,8,"St Cuthbert's Care",NA
+"264","STCUTHBERTSCARE","2016",0,0,0,0,0,0,3,3,4,3,3,2,6,"St Cuthbert's Care",NA
+"265","STCUTHBERTSCARE","2017",0,0,0,0,0,0,4,2,4,0,2,0,4,"St Cuthbert's Care",NA
+"263","STCUTHBERTSCARE","2018",0,0,0,0,0,0,3,2,5,2,3,0,5,"St Cuthbert's Care",NA
+"262","STCUTHBERTSCARE","2019",0,1,0,1,1,1,2,1,2,1,1,1,4,"St Cuthbert's Care",NA
+"266","STCUTHBERTSCARE","2020",0,0,0,0,0,0,1,0,1,0,1,0,1,"St Cuthbert's Care",NA
+"261","STCUTHBERTSCARE","2021",0,0,0,0,0,0,2,1,2,0,1,0,2,"St Cuthbert's Care",NA
+"267","STCUTHBERTSCARE","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"St Cuthbert's Care",NA
+"269","STELIZABETHSCENTRE","2019",1,1,1,0,0,0,0,0,0,0,0,0,1,"St Elizabeth's Centre",NA
+"273","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2015",0,0,0,0,0,0,2,2,2,0,0,0,2,"Strode Park Foundation for People with Disabilities",NA
+"270","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
+"272","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2018",0,0,0,1,1,1,1,1,1,0,0,0,2,"Strode Park Foundation for People with Disabilities",NA
+"271","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2019",1,1,1,0,0,0,0,0,0,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
+"275","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
+"274","STRODEPARKFOUNDATIONFORPEOPLEWITHDISABILITIES","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Strode Park Foundation for People with Disabilities",NA
+"277","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
+"276","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
+"278","TALBOTHOUSESCHOOLNEWCASTLEUPONTYNE","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"Talbot House School Newcastle Upon Tyne",NA
+"279","THECALDECOTTFOUNDATION","2014",0,0,0,1,1,1,3,3,3,0,0,0,4,"The Caldecott Foundation Limited",NA
+"282","THECALDECOTTFOUNDATION","2015",0,0,0,0,1,0,3,1,3,2,3,2,5,"The Caldecott Foundation Limited",NA
+"286","THECALDECOTTFOUNDATION","2016",0,0,0,0,0,0,2,2,3,1,1,0,3,"The Caldecott Foundation Limited",NA
+"281","THECALDECOTTFOUNDATION","2017",0,0,0,0,0,0,1,1,2,4,4,3,5,"The Caldecott Foundation Limited",NA
+"285","THECALDECOTTFOUNDATION","2018",0,0,0,0,0,0,2,2,2,5,5,5,7,"The Caldecott Foundation Limited",NA
+"283","THECALDECOTTFOUNDATION","2019",0,0,0,1,1,1,0,0,1,4,4,3,5,"The Caldecott Foundation Limited",NA
+"284","THECALDECOTTFOUNDATION","2020",0,0,0,0,0,0,0,1,0,2,1,2,2,"The Caldecott Foundation Limited",NA
+"287","THECALDECOTTFOUNDATION","2021",0,0,0,0,0,0,0,1,0,4,3,4,4,"The Caldecott Foundation Limited",NA
+"280","THECALDECOTTFOUNDATION","2022",0,0,0,0,0,0,0,0,0,1,1,1,1,"The Caldecott Foundation Limited",NA
+"292","THECHARTWELLGROUPOFCOMPANIES","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chartwell Group of Companies Limited",NA
+"294","THECHARTWELLGROUPOFCOMPANIES","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Chartwell Group of Companies Limited",NA
+"290","THECHARTWELLGROUPOFCOMPANIES","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chartwell Group of Companies Limited",NA
+"293","THECHARTWELLGROUPOFCOMPANIES","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chartwell Group of Companies Limited",NA
+"289","THECHARTWELLGROUPOFCOMPANIES","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chartwell Group of Companies Limited",NA
+"291","THECHARTWELLGROUPOFCOMPANIES","2020",0,0,0,0,0,0,1,1,0,0,0,1,1,"The Chartwell Group of Companies Limited",NA
+"288","THECHARTWELLGROUPOFCOMPANIES","2021",0,0,0,0,0,0,0,1,0,1,0,1,1,"The Chartwell Group of Companies Limited",NA
+"298","THECHILTERNCENTREFORDISABLEDCHILDREN","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
+"296","THECHILTERNCENTREFORDISABLEDCHILDREN","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
+"295","THECHILTERNCENTREFORDISABLEDCHILDREN","2016",0,0,0,1,0,1,0,1,0,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
+"297","THECHILTERNCENTREFORDISABLEDCHILDREN","2017",0,0,0,0,1,0,1,0,1,0,0,0,1,"The Chiltern Centre for Disabled Children Limited",NA
+"302","THEEXETERROYALACADEMYFORDEAFEDUCATION","2016",1,1,1,0,1,0,1,0,1,0,0,0,2,"The Exeter Royal Academy For Deaf Education",NA
+"303","THEEXETERROYALACADEMYFORDEAFEDUCATION","2017",0,0,0,1,0,0,2,2,1,0,0,0,2,"The Exeter Royal Academy For Deaf Education",NA
+"301","THEEXETERROYALACADEMYFORDEAFEDUCATION","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Exeter Royal Academy For Deaf Education",NA
+"299","THEEXETERROYALACADEMYFORDEAFEDUCATION","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Exeter Royal Academy For Deaf Education",NA
+"300","THEEXETERROYALACADEMYFORDEAFEDUCATION","2021",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Exeter Royal Academy For Deaf Education",NA
+"306","THENORMANLAUDASSOCIATION","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Norman Laud Association",NA
+"304","THENORMANLAUDASSOCIATION","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Norman Laud Association",NA
+"305","THENORMANLAUDASSOCIATION","2020",0,0,0,0,0,0,1,0,1,0,1,0,1,"The Norman Laud Association",NA
+"310","THEPERCYHEDLEYFOUNDATION","2016",0,0,0,0,2,0,2,0,2,0,0,0,2,"The Percy Hedley Foundation",NA
+"307","THEPERCYHEDLEYFOUNDATION","2017",0,0,0,2,1,0,2,2,1,2,1,1,4,"The Percy Hedley Foundation",NA
+"308","THEPERCYHEDLEYFOUNDATION","2018",0,0,0,1,2,1,2,1,2,0,0,0,3,"The Percy Hedley Foundation",NA
+"309","THEPERCYHEDLEYFOUNDATION","2019",1,2,1,3,2,2,2,1,1,0,0,0,5,"The Percy Hedley Foundation",NA
+"311","THEROSEROADASSOCIATION","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"The Rose Road Association",NA
+"312","THEROSEROADASSOCIATION","2016",0,0,0,1,1,0,1,0,0,0,0,0,1,"The Rose Road Association",NA
+"315","THEROSEROADASSOCIATION","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Rose Road Association",NA
+"313","THEROSEROADASSOCIATION","2018",0,0,0,1,1,1,0,0,0,0,0,0,1,"The Rose Road Association",NA
+"316","THEROSEROADASSOCIATION","2019",0,0,0,0,0,0,1,0,1,0,1,0,1,"The Rose Road Association",NA
+"314","THEROSEROADASSOCIATION","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"The Rose Road Association",NA
+"320","THESTCHRISTOPHERSCHOOL","2014",0,0,0,0,0,0,0,1,0,1,0,1,1,"The St Christopher School",NA
+"317","THESTCHRISTOPHERSCHOOL","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"321","THESTCHRISTOPHERSCHOOL","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"323","THESTCHRISTOPHERSCHOOL","2017",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"318","THESTCHRISTOPHERSCHOOL","2018",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"319","THESTCHRISTOPHERSCHOOL","2019",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"322","THESTCHRISTOPHERSCHOOL","2022",0,0,0,0,0,0,1,1,1,0,0,0,1,"The St Christopher School",NA
+"325","THETOGETHERTRUST","2014",1,1,1,1,1,1,4,6,4,4,2,4,10,"The Together Trust",NA
+"324","THETOGETHERTRUST","2015",0,0,0,2,1,1,6,7,7,3,2,1,10,"The Together Trust",NA
+"332","THETOGETHERTRUST","2016",0,0,0,0,1,0,8,7,8,3,3,3,11,"The Together Trust",NA
+"328","THETOGETHERTRUST","2017",0,0,0,0,0,0,8,5,7,3,6,4,11,"The Together Trust",NA
+"331","THETOGETHERTRUST","2018",0,1,0,2,0,1,8,7,7,2,3,2,11,"The Together Trust",NA
+"330","THETOGETHERTRUST","2019",0,0,0,0,1,0,9,8,9,2,2,2,11,"The Together Trust",NA
+"329","THETOGETHERTRUST","2020",0,0,0,0,0,0,2,2,2,0,0,0,2,"The Together Trust",NA
+"326","THETOGETHERTRUST","2021",0,0,0,1,1,1,4,4,4,0,0,0,5,"The Together Trust",NA
+"327","THETOGETHERTRUST","2022",0,0,0,0,1,0,5,3,5,1,2,1,6,"The Together Trust",NA
+"337","TOGETHERFORCHILDRENSUNDERLAND","2017",1,1,1,2,2,0,2,0,1,2,2,1,5,"Together For Children Sunderland Limited","Together for Children Sunderland Limited"
+"333","TOGETHERFORCHILDRENSUNDERLAND","2018",0,0,0,3,3,2,2,1,2,2,2,1,6,"Together For Children Sunderland Limited","Together for Children Sunderland Limited"
+"336","TOGETHERFORCHILDRENSUNDERLAND","2019",0,0,0,0,0,0,3,3,3,1,1,1,4,"Together For Children Sunderland Limited","Together for Children Sunderland Limited"
+"334","TOGETHERFORCHILDRENSUNDERLAND","2021",0,0,0,1,2,1,2,0,3,1,2,0,4,"Together For Children Sunderland Limited","Together for Children Sunderland Limited"
+"335","TOGETHERFORCHILDRENSUNDERLAND","2022",0,0,0,0,0,0,0,1,1,1,0,0,1,"Together For Children Sunderland Limited","Together for Children Sunderland Limited"
+"338","WEAREBEAMS","2015",0,0,0,1,1,1,0,0,0,0,0,0,1,"We Are Beams",NA
+"340","WEAREBEAMS","2016",0,0,0,1,0,0,1,1,0,0,0,0,1,"We Are Beams",NA
+"342","WEAREBEAMS","2017",0,0,0,0,0,0,2,2,2,0,0,0,2,"We Are Beams",NA
+"339","WEAREBEAMS","2018",1,1,1,0,0,0,0,0,0,0,0,0,1,"We Are Beams",NA
+"343","WEAREBEAMS","2019",0,0,0,1,1,1,0,0,0,0,0,0,1,"We Are Beams",NA
+"341","WEAREBEAMS","2021",0,0,0,1,0,0,1,1,0,0,0,0,1,"We Are Beams",NA
+"348","WHITELODGECENTRE","2014",0,0,0,0,0,0,1,1,1,0,0,0,1,"White Lodge Centre",NA
+"345","WHITELODGECENTRE","2015",0,0,0,1,0,0,1,1,0,0,0,0,1,"White Lodge Centre",NA
+"349","WHITELODGECENTRE","2016",0,0,0,0,0,0,1,1,1,0,0,0,1,"White Lodge Centre",NA
+"346","WHITELODGECENTRE","2017",0,0,0,1,1,1,0,0,0,0,0,0,1,"White Lodge Centre",NA
+"347","WHITELODGECENTRE","2018",0,0,0,0,1,0,1,0,1,0,0,0,1,"White Lodge Centre",NA
+"344","WHITELODGECENTRE","2019",0,0,0,0,1,0,1,0,1,0,0,0,1,"White Lodge Centre",NA
+"350","WILLOWSLULL","2020",0,1,0,1,0,1,0,0,0,0,0,0,1,"Willows Lull",NA
+"351","WORCESTERSHIRECHILDRENFIRST","2021",2,2,2,0,0,0,2,2,2,0,0,0,4,"Worcestershire Children First",NA
+"352","WORCESTERSHIRECHILDRENFIRST","2022",0,0,0,1,1,1,0,0,0,0,0,0,1,"Worcestershire Children First",NA
+"356","YMCAROBINHOODGROUP","2014",0,0,0,1,1,1,0,0,0,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"354","YMCAROBINHOODGROUP","2015",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"358","YMCAROBINHOODGROUP","2016",0,0,0,0,0,0,0,0,0,1,1,1,1,"YMCA ROBIN HOOD GROUP",NA
+"360","YMCAROBINHOODGROUP","2017",0,0,0,0,0,0,0,0,0,1,1,1,1,"YMCA ROBIN HOOD GROUP",NA
+"357","YMCAROBINHOODGROUP","2018",0,0,0,0,0,0,0,1,1,1,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"359","YMCAROBINHOODGROUP","2020",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"353","YMCAROBINHOODGROUP","2021",0,0,0,0,0,0,1,1,1,0,0,0,1,"YMCA ROBIN HOOD GROUP",NA
+"355","YMCAROBINHOODGROUP","2022",0,0,0,1,1,1,1,1,1,0,0,0,2,"YMCA ROBIN HOOD GROUP",NA
