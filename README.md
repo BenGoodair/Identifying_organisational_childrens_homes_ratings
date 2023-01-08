@@ -6,6 +6,6 @@ This is a repository of data and reproducible code to show how data has been agg
  - Code used to create the final datasets are available in the 'Code' folder.
  - Raw data is downloaded from original publications from Ofsted, most recently [here]("https://www.gov.uk/government/statistics/childrens-social-care-data-in-england-2022) from the full collection [here](https://www.gov.uk/government/collections/childrens-social-care-statistics).
  
-The code to clean the data directly pulls raw data from this repository so it should be entirely reproducible after any new packages have been downloaded.
+The code to clean the data directly pulls raw data from this repository so it should be entirely reproducible after any new-to-you R packages have been downloaded. I've tried to comment it fully, any issues let me know...
 
 Any questions please feel free to contact me at benjamin.goodair@spi.ox.ac.uk
