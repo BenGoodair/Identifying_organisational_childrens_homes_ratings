@@ -403,8 +403,23 @@ df$total <- 1
 #aggregate our dataframe by companies
 dforgs <-  aggregate(. ~matchorg+year, data=df[c("matchorg","inadequate_overall","inadequate_leaders", "inadequate_safeguarding", "requires_improvement_safeguarding", "requires_improvement_leaders", "requires_improvement_overall","good_overall", "good_leaders", "good_safeguarding", "outstanding_overall", "outstanding_leaders", "outstanding_safeguarding" ,"total", "year")], sum)
 
+#Now we want to reattach the original (messy) names of companies
+#Select match string and messy original name string
+dfmatch <- df %>% dplyr::select(matchorg,  Organisation.which.owns.the.provider)
+#Keep only unique cases
+dfmatch <- unique(dfmatch)
+#Identify which organisation had multiple spelling changes
+dfmatch <- dfmatch %>% dplyr::group_by(matchorg) %>% mutate(nobs = row_number())
+#Widen the panel so we now list all variations of the same company spelling in one row
+dfmatch <- panel_data(dfmatch, id = matchorg, wave = nobs)
+dfwide <- widen_panel(dfmatch)
+
+#Attach our original messy names to the cleaned data
+df_final <- merge(dforgs, dfwide, by="matchorg", all.x = T)
+
+
 #save our dataframe
-write.csv(dforgs, "Data/private_years_14_22.csv")
+write.csv(df_final, "Data/private_years_14_22.csv")
 
 #Now repeat for third sector homes from checkpoint
 
@@ -444,8 +459,23 @@ df$total <- 1
 #aggregate our dataframe by companies
 dforgs <-  aggregate(. ~matchorg+year, data=df[c("matchorg","inadequate_overall","inadequate_leaders", "inadequate_safeguarding", "requires_improvement_safeguarding", "requires_improvement_leaders", "requires_improvement_overall","good_overall", "good_leaders", "good_safeguarding", "outstanding_overall", "outstanding_leaders", "outstanding_safeguarding" ,"total", "year")], sum)
 
+#Now we want to reattach the original (messy) names of companies
+#Select match string and messy original name string
+dfmatch <- df %>% dplyr::select(matchorg,  Organisation.which.owns.the.provider)
+#Keep only unique cases
+dfmatch <- unique(dfmatch)
+#Identify which organisation had multiple spelling changes
+dfmatch <- dfmatch %>% dplyr::group_by(matchorg) %>% mutate(nobs = row_number())
+#Widen the panel so we now list all variations of the same company spelling in one row
+dfmatch <- panel_data(dfmatch, id = matchorg, wave = nobs)
+dfwide <- widen_panel(dfmatch)
+
+#Attach our original messy names to the cleaned data
+df_final <- merge(dforgs, dfwide, by="matchorg", all.x = T)
+
+
 #save our dataframe
-write.csv(dforgs, "Data/voluntary_years_14_22.csv")
+write.csv(df_final, "Data/voluntary_years_14_22.csv")
 
 
 
